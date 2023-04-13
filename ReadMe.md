@@ -1,5 +1,11 @@
 # 💫 About Me:
-📔I am a certified Junior Java Developer who has thirst for knowledge and trying out new things.<br>🔭I am currently sharpening my skills in development and looking for a job opportunity.
+📔I am a certified Junior Java Developer who has thirst for knowledge and trying out new things.<br>
+🔭I am currently sharpening my skills in development and looking for a job opportunity.
+
+### 🏗️ Currently working on :
+ App which simulates *Insurance company*. <br>
+ You can check it out by **clicking on the badge** below : <br> 
+ * [![Insurance App](https://img.shields.io/badge/App-Insurance-blue)](https://github.com/sS1mon/Insurance_Simulator)
 
 
 ## 🌐 Socials:
