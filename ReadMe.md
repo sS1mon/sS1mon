@@ -10,7 +10,7 @@
 
 #### 🧑‍💻 Mini Stuff :
 App for Producer-Consumer implementation <br>
-*[![Insurance App](https://img.shields.io/badge/Producer-Consumer)](https://github.com/sS1mon/Producer-Consumer_pattern)
+* [![Insurance App](https://img.shields.io/badge/Producer-Consumer)](https://github.com/sS1mon/Producer-Consumer_pattern)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Šimon#5603) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-selecky) ![Email](https://img.shields.io/badge/Email-seleckysimon%40gmail.com-yellowgreen) 
