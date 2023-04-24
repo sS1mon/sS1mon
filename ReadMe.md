@@ -9,7 +9,7 @@
 
 
 #### 🧑‍💻 Mini Stuff :
-App for Producer-Consumer implementation
+App for Producer-Consumer implementation <br>
 *[![Insurance App](https://img.shields.io/badge/Producer-Consumer)](https://github.com/sS1mon/Producer-Consumer_pattern)
 
 ## 🌐 Socials:
